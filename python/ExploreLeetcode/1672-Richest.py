@@ -1,4 +1,4 @@
-Link: https://leetcode.com/problems/richest-customer-wealth/description/
+## Link: https://leetcode.com/problems/richest-customer-wealth/description/
 
 
 # This is my brute-force version where I nested loop row-wise aggeration and return int largest
